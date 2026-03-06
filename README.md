@@ -65,7 +65,9 @@ Write a short introduction about technical writing based on these resources and 
 
 **[Steps to creating an outstanding content outline for Technical Writers](https://hackmamba.io/blog/2024/08/content-outline-for-technical-writers/)**
 
-**[A guide to creating a content brief for technical writers [+template]](https://hackmamba.io/blog/2024/07/content-brief-for-technical-writers-template/)**
+**A guide to creating a content brief for technical writers**
+
+* **[template]](https://hackmamba.io/blog/2024/07/content-brief-for-technical-writers-template/)** *
 
 **[9 Essential Technical Writing Skills Every Writer Must Possess](https://whatfix.com/blog/technical-writing-skills/)**
 
@@ -76,7 +78,6 @@ Write a short introduction about technical writing based on these resources and 
 **[How to generate ideas for technical content in 25 minutes](https://hackmamba.io/blog/2024/05/generate-ideas-for-technical-content/)**
 
 **[How to Source Technical Blog Titles and Write Consistently - Colby, William](https://www.youtube.com/watch?v=axaCbfDnGm0)**
-
 </details>
 
 <details>
@@ -112,7 +113,7 @@ Write a short introduction about technical writing based on these resources and 
 
 </details>
 
-## Resources and Tools for Best Practices 🗂️
+## Resources and Tools for Best Practices
 
 **Discover essential resources, software, and methodologies to enhance productivity, maintain quality, and follow industry-standard best practices.**
 
@@ -226,7 +227,7 @@ Write a short introduction about technical writing based on these resources and 
 
 [**Technical Writing Communities**](https://medium.com/technical-writing-is-easy/technical-writing-communities-ef807c11134c)
 
-[**Technical Writing Forums and Communities**](https://blog.contentre.io/technical-writing-forums-and-communities/)
+**[Technical Writing Forums and Communities](https://blog.contentre.io/technical-writing-forums-and-communities/)**
 
 **[Technical Typers community](https://discord.gg/2zGqkPVAy6)**
 
@@ -266,7 +267,7 @@ Write a short introduction about technical writing based on these resources and 
     
 **[Technical Writing: 6 Best Practices for Effective Content](https://proedit.com/technical-writing-best-practices/)**
 
-**[Top 7 Practical Tips for Creating Effective SaaS Documentation: A Comprehensive Guide]()https://hackmamba.io/blog/2023/06/top-7-practical-tips-for-creating-effective-saas-documentation-a-comprehensive-guide/**
+**[Top 7 Practical Tips for Creating Effective SaaS Documentation: A Comprehensive Guide]()https://hackmamba.io/blog-practical-tips-for-creating-effective-saas-documentation-a-comprehensive-guide/**
 
 **[Tips For Writing Great Technical Content](https://www.youtube.com/watch?v=wqdeJhzIYI8)**
 
@@ -340,7 +341,7 @@ Write a short introduction about technical writing based on these resources and 
 
 **[Technical writing course by TechnicalWriterHQ](https://technicalwriter.teachable.com/p/home?referral_code=6TJ7SI?ref=everythingtechnicalwriting.com) (paid)**
 
-**[Fundamentals of Technical Writing by Ed2go](https://www.ed2go.com/courses/writing/writing-and-editing/ilc/fundamentals-of-technical-writing?ref=everythingtechnicalwriting.com) (paid)**
+**[Fundamentals of Technical Writing by Ed](https://www.ed2go.com/courses/writing/writing-and-editing/ilc/fundamentals-of-technical-writing?ref=everythingtechnicalwriting.com) (paid)**
 
 **[Technical writing course by Google](https://developers.google.com/tech-writing?ref=everythingtechnicalwriting.com) (free)**
 
@@ -358,7 +359,7 @@ Write a short introduction about technical writing based on these resources and 
 
 </details>
 
-## Guides and Types 🗺️
+## Guides and Types ##
 
 **Explore various guides and types of technical documentation, their purposes, and how to choose the right format for your audience.**
 
@@ -393,7 +394,7 @@ Write a short introduction about technical writing based on these resources and 
 
 </details>
 
-## Research and SEO for Technical Writing 🔬
+## Research and SEO for Technical Writing ##
 
 **Learn effective research methods and SEO strategies to create high-ranking, audience-focused technical content.**
 
@@ -415,7 +416,7 @@ Write a short introduction about technical writing based on these resources and 
 
 </details>
 
-## Collaboration and Content Review 🤝
+## Collaboration and Content Review ##
 
 **Understand the importance of teamwork and structured review processes to deliver accurate, polished, and impactful technical content.**
 
@@ -431,7 +432,7 @@ Write a short introduction about technical writing based on these resources and 
 
 </details>
 
-## Portfolio Development and Continuous Learning 💼
+## Portfolio Development and Continuous Learning ##
 
 **Master the art of showcasing your technical writing skills and stay updated with evolving trends through lifelong learning.**
 
@@ -472,7 +473,7 @@ Write a short introduction about technical writing based on these resources and 
 
 </details>
 
-## Developer Marketing ➰
+## Developer Marketing ##
 
 **Explore strategies to effectively market technical products and services, bridging the gap between developers and their audience.**
 
@@ -494,7 +495,7 @@ Write a short introduction about technical writing based on these resources and 
 
 </details>
 
-## Job Opportunities 👨‍💼
+## Job Opportunities ##
 
 **Explore some opportunities around Technical Writing.**
 
@@ -506,7 +507,7 @@ Write a short introduction about technical writing based on these resources and 
 
 </details>
 
-## Video Content Creation 📹
+## Video Content Creation ##
 
 **Explore how to make good Video tutorials**
 
@@ -518,7 +519,7 @@ Write a short introduction about technical writing based on these resources and 
 
 </details>
 
-## Our Top Contributors ✨
+## Our Top Contributors ##
 
 Hackmamba wouldn't be Hackmamba without you. Every contribution counts. Thank you for being part of this journey.
 
@@ -526,8 +527,7 @@ Hackmamba wouldn't be Hackmamba without you. Every contribution counts. Thank yo
   <img src="https://contrib.rocks/image?repo=hackmamba-io/Technical-Writing-Course-with-Curriculum" max={1000} columns={100} anon={1} />
 </a>
 
-## Our Social Media Channels 🔗
-
+## Our Social Media Channels ##
 <details>
     
 <summary>Channels</summary>
