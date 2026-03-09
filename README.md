@@ -1,2 +1,2 @@
 ###*** Technical-Writing-Course-with-Curriculum ***###
-# ~$.eslint.vaunt.c
+# ~$.eslint.vaunt.c/README
