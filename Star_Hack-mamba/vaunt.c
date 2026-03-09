@@ -1,4 +1,4 @@
-Technical-Writing-Course-with-Curriculum.md
+Technical-Writing-Course-with-Curriculum.READEME.md
 # Course Curriculum - Beginner & Intermediate Level
 
 "[✨Star_Hack-mamba](https://hackmamba.io/)"
