@@ -1,11 +1,12 @@
 README
 # Course Curriculum - Beginner & Intermediate Level
 
-"[✨Star_Hack-mamba](https://hackmamba.io/)"
-** is designed for newbie and beginner technical **
+```"[✨Star_Hack-mamba](https://hackmamba.io/)```
+is designed for newbie and beginner technical
 writers who want to excel in technical writing and learn more about it.
 
-If you have questions or want to network with other technical writers, join our **[Discord](https://discord.com/invite/MjbyDy3sPp)** community and if you want to explore some exclusive opportunities with Hackmamba, fill out this [form](https://get.hackmamba.io/community-member)
+If you have questions or want to network with other technical writers, join our 
+[Discord](https://discord.com/invite/MjbyDy3sPp) community and if you want to explore some exclusive opportunities with Hackmamba, fill out this ```[form](https://get.hackmamba.io/community-member)```
 
 Make sure to give us a star on this repository. This will help us out a lot to improve and work on amazing projects and programs like these!
 
@@ -18,9 +19,9 @@ Make sure to give us a star on this repository. This will help us out a lot to i
 <details>
 <summary>What is Technical Writing</summary>
 
-**[Best Roadmap to Learn Technical Writing](https://dev.to/engroso/best-roadmap-to-learn-technical-writing-2057)**
+```**[Best Roadmap to Learn Technical Writing](https://dev.to/engroso/best-roadmap-to-learn-technical-writing-2057)**
 
-**[How to Write Efficient Technical Blog Posts](https://www.youtube.com/watch?v=6LJ0-eHgBKc&t=74s)**
+```**```[How to Write Efficient Technical Blog Posts](https://www.youtube.com/watch?v=6LJ0-eHgBKc&t=74s)```**```
 
 **[What is Technical Writing?](https://technicalwriterhq.com/writing/technical-writing/)**
 
@@ -544,8 +545,8 @@ Hackmamba wouldn't be Hackmamba without you. Every contribution counts. Thank yo
 
 **[Blogs](https://hackmamba.io/blog/)**
 
-</details>
-
+</details>```
+```
 ## Available Badges
 
 To earn these exclusive custom badges, star or contribute to our repository. These badges can also be used to showcase in your Portfolio!
