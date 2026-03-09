@@ -1,4 +1,4 @@
-Technical-Writing-Course-with-Curriculum.md
+#~$.Technical-Writing-Course-with-Curriculum.md
 # Course Curriculum - Beginner & Intermediate Level
 
 "[✨Star_Hack-mamba](https://hackmamba.io/)"
@@ -15,7 +15,7 @@ Make sure to give us a star on this repository. This will help us out a lot to i
 
 **Understand the definition, importance, and role of technical writing.**
 
-<details>
+```<details>```
 <summary>What is Technical Writing</summary>
 
 **[Best Roadmap to Learn Technical Writing](https://dev.to/engroso/best-roadmap-to-learn-technical-writing-2057)**
@@ -525,8 +525,8 @@ Write a short introduction about technical writing based on these resources and 
 
 Hackmamba wouldn't be Hackmamba without you. Every contribution counts. Thank you for being part of this journey.
 
-<a href="https://github.com/hackmamba-io/Technical-Writing-Course-with-Curriculum/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=hackmamba-io/Technical-Writing-Course-with-Curriculum" max={1000} columns={100} anon={1} />
+```<a href="https://github.com/hackmamba-io/Technical-Writing-Course-with-Curriculum/graphs/contributors">
+    <img src="https://contrib.rocks/image?repo=hackmamba-io/Technical-Writing-Course-with-Curriculum" max={1000} columns={100} anon={1} />```
 </a>
 
 ## Our Social Media Channels ##
