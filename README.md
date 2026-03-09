@@ -1,2 +1,2 @@
 ###*** Technical-Writing-Course-with-Curriculum ***###
-# ~$.eslint.vaunt.c/README/Technical-Writing-Course-with-Curriculum.README.md
+# ~$.eslint.vaunt.c/Star_Hack-mamba/README/Technical-Writing-Course-with-Curriculum.README.md
