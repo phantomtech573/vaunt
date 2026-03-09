@@ -1,5 +1,4 @@
-Main.md
-** "[Star_Hack-mamba.vaunt.c✨Star_Hack-mamba](https://hackmamba.io/)" **
+.vaunt.c.Star_Hack-mamba.vaunt.c✨.Star_Hack-mamba](https://hackmamba.io/)" **
 # Course Curriculum - Beginner & Intermediate Level
 ** is designed for newbie and beginner technical **
 writers who want to excel in technical writing and learn more about it.
